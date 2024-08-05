@@ -24,15 +24,14 @@ This is a Todo List application built with React. The application allows users t
 To get started with the Todo List application, follow these steps:
 
 1. **Clone the Repository**
-
    ```bash
    git clone https://github.com/your-username/todo-list-app.git
+   
 2. **Install Dependencies**
-
 Run the following command to install all required npm packages:
-  npm install
+  npm install  
+  
 3. **Start the Development Server**
-
 Start the React development server by running:
     npm start
 This will launch the app in your default web browser at http://localhost:3000.
