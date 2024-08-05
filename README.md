@@ -40,17 +40,17 @@ This will launch the app in your default web browser at http://localhost:3000.
 ## Usage
 **Add a Todo**
 
-- Enter a description in the input field and click the "Add" button. The new todo will appear at the top of the list.
+- Enter a description in the input field and click the "Add" button. The new todo will appear at the top of the list.  
 **Edit a Todo**
 
 - Click the "Edit" button next to a todo item. The todo item will turn into an input field where you can modify the text.
-- Click the "Save" button to apply changes or click outside the input to cancel.
+- Click the "Save" button to apply changes or click outside the input to cancel.  
 **Toggle Todo Completion**
 
-- Click the checkbox next to a todo to mark it as complete or incomplete.
+- Click the checkbox next to a todo to mark it as complete or incomplete.  
 **Delete a Todo**
 
-- Click the "Delete" button next to a todo. The button is only enabled if the todo is marked as complete.
+- Click the "Delete" button next to a todo. The button is only enabled if the todo is marked as complete.  
 **Components**
 - App.jsx: Contains the main state management logic and renders the Main and TodoList components.
 
@@ -59,4 +59,3 @@ This will launch the app in your default web browser at http://localhost:3000.
 - TodoList.jsx: Renders the list of todos by mapping over the array of todo items and displaying each Todo component.
 
 - Todo.jsx: Displays individual todo items with options to edit, delete, or toggle completion.
-
